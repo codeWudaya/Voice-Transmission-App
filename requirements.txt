@@ -1,0 +1,6 @@
+streamlit==1.25.0
+sounddevice==0.4.6
+numpy==1.23.5
+matplotlib==3.7.0
+threading
+
